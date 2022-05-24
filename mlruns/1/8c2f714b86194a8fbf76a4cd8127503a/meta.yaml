@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lisamarienagel/code/LiMaNa04/TaxiFareModel/mlruns/1/8c2f714b86194a8fbf76a4cd8127503a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 8c2f714b86194a8fbf76a4cd8127503a
+run_uuid: 8c2f714b86194a8fbf76a4cd8127503a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653402198892
+status: 1
+tags: []
+user_id: unknown
